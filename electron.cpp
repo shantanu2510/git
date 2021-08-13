@@ -33,7 +33,7 @@ int main()
           
        }
    }
-   cout<<res;
+   cout<<"answer is"<<res;
    
 }
 
